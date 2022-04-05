@@ -1,6 +1,9 @@
-.review-container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-    margin: 10px;
+.review-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  margin: 10px;
+}
+h5 {
+  line-height: 1.7;
 }
