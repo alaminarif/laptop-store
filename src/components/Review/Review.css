@@ -1,12 +1,12 @@
-.review-detl{
-    border: 2px solid gray;
-    border-radius: 15px;
-    background-color: cornflowerblue;
-    margin: 15px;
-    padding: 10px;
+.review-detl {
+  border: 2px solid gray;
+  border-radius: 15px;
+  background-color: rgb(215, 215, 244);
+  margin: 15px;
+  padding: 10px;
 }
-.review-detl img{
-    width: 50px;
-    border: 3px solid skyblue;
-    border-radius: 50%;
+.review-detl img {
+  width: 50px;
+  border: 3px solid skyblue;
+  border-radius: 50%;
 }
