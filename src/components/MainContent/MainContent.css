@@ -1,0 +1,39 @@
+.main-content{
+    display: flex;
+    justify-content: space-around;
+}
+.color-text{
+    color: blueviolet;
+}
+.main-cont-text{
+    margin-top: 10%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+.article{
+    font-size: 17px;
+}
+.reviews {
+    margin-bottom: 30px;
+}
+.reviews-text{
+    font-size: 28px;
+}
+.reviews button{
+    background-color: rgb(117, 117, 202);
+    border: none;
+    border-radius: 16px;
+    height: 30px;
+    width: 170px;
+    font-weight: bolder;
+}
+.reviews button:hover{
+    background-color: rgb(36, 36, 206);
+    color: rgb(255, 230, 0);
+}
+.link-see-all a{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+}
+

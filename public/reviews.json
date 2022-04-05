@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "624b10628753cf8c667d2956",
+      "picture": "img/man-1.png",
+      "name": "Vega Martin",
+      "desc": "A trim-to-the-max chassis, a beautiful screen, and a cutting-edge Intel       Tiger Lake\" processor help the latest Dell XPS 13 affirm its status as today",
+      "ratting": 4
+    },
+    {
+      "_id": "624b1062b4c8479676d9cf8c",
+      "picture": "img/man-2.jpg",
+      "name": "Antoinette Madden",
+      "desc": "The Lenovo IdeaPad 3 14 is a knockout budget laptop, with excellent performance and a bevy of modern trappings that almost make you forget it rings up at less than $600.",
+      "ratting": 3
+    },
+    {
+      "_id": "624b1062d7967818fc7f004d",
+      "picture": "img/man-3.png",
+      "name": "Maxwell Woodward",
+      "desc": "It's pricey for a Chromebook, but Acer's Chromebook Spin 713 remains a world-class alternative to Windows convertibles.",
+      "ratting": 5
+    },
+    {
+      "_id": "624b10627dd0db989350a8ab",
+      "picture": "img/man-4.png",
+      "name": "Maude Forbes",
+      "desc": "The Inspiron 16 Plus (7610) is a top-notch value in a burgeoning category of laptops with 16-inch displays, capable Intel H-series CPUs, and Nvidia GeForce RTX graphics.",
+      "ratting": 3
+    },
+    {
+      "_id": "624b1062fdbb003abab94cec",
+      "picture": "img/man-5.jpg",
+      "name": "Ophelia Briggs",
+      "desc": "Its tall OLED screen and swank, thoughtful design vault the HP Spectre x360 14 to the top rank of convertible laptops.",
+      "ratting": 2
+    },
+    {
+      "_id": "624b1062af2cf922a1fb03b6",
+      "picture": "img/man-6.jpg",
+      "name": "Traci Lester",
+      "desc": "There's one ultraportable we admire as much (the Dell XPS 13 OLED), but there's no business laptop we admire more than Lenovo's latest ThinkPad X1 Carbon.",
+      "ratting": 5
+    }
+  ]

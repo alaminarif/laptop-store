@@ -1,0 +1,12 @@
+.review-detl{
+    border: 2px solid gray;
+    border-radius: 15px;
+    background-color: cornflowerblue;
+    margin: 15px;
+    padding: 10px;
+}
+.review-detl img{
+    width: 50px;
+    border: 3px solid skyblue;
+    border-radius: 50%;
+}
