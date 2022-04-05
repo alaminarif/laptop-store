@@ -1,11 +1,10 @@
-.notfound-text{
-    margin-top: 10%;
-    color: rgb(253, 106, 0);
+.notfound-text {
+  margin-top: 10%;
+  color: rgb(253, 106, 0);
 }
-.notfound-text a{
-    color: black;
-    text-decoration: none;
-    padding: 5px;
-    font-weight: bold;
+.notfound-text a {
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+  font-weight: bold;
 }
-
